@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Seifeldeen, you can call me Seif<br>I'm a Software developer</p>
+<p align="left">My name is Seifeldeen, you can call me Seif<br>I'm a Software developer and Programming instructor</p>
 
 ###
 
