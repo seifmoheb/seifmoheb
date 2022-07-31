@@ -35,6 +35,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/seifmoheb/seifmoheb/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/seifmoheb/seifmoheb/snake.svg" alt="Snake animation" />
 
 ###
